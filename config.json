@@ -144,7 +144,7 @@
     "eta_noise_seed_delta": 0,
     "always_discard_next_to_last_sigma": false,
     "disabled_extensions": [],
-    "sd_checkpoint_hash": "0bbe3f1aa306d4ce40bbfd467b10988e4696b3d4f9c7610b4564517cacd31839",
+    "sd_checkpoint_hash": "",
     "ldsr_steps": 100,
     "ldsr_cached": false,
     "SWIN_tile": 192,
