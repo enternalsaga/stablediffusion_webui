@@ -2,7 +2,7 @@
     "txt2img/Prompt/visible": true,
     "txt2img/Prompt/value": "architecture, a building",
     "txt2img/Negative prompt/visible": true,
-    "txt2img/Negative prompt/value": "bad-picture-chill-75v,",
+    "txt2img/Negative prompt/value": "worst quality, cropped, ugly, bad quality, bad drawing,",
     "txt2img/Interrupt/visible": true,
     "txt2img/Skip/visible": true,
     "txt2img/Generate/visible": true,
