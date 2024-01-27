@@ -65,7 +65,7 @@
     "sd_model_checkpoint": "0bbe3f1aa3",
     "sd_checkpoint_cache": 0,
     "sd_vae_checkpoint_cache": 0,
-    "sd_vae": "vae-ft-mse-840000-ema-pruned.safetensors",
+    "sd_vae": "vae-ft-mse-840000-ema-pruned.ckpt",
     "sd_vae_as_default": true,
     "sd_hypernetwork": "",
     "sd_hypernetwork_strength": 1.0,
