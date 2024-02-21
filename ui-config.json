@@ -1416,7 +1416,7 @@
     "customscript/tilevae.py/img2img/Move VAE to GPU (if possible)/visible": true,
     "customscript/tilevae.py/img2img/Move VAE to GPU (if possible)/value": true,
     "customscript/tilevae.py/img2img/Encoder Tile Size/visible": true,
-    "customscript/tilevae.py/img2img/Encoder Tile Size/value": 2048,
+    "customscript/tilevae.py/img2img/Encoder Tile Size/value": 1280,
     "customscript/tilevae.py/img2img/Encoder Tile Size/minimum": 256,
     "customscript/tilevae.py/img2img/Encoder Tile Size/maximum": 4096,
     "customscript/tilevae.py/img2img/Encoder Tile Size/step": 16,
