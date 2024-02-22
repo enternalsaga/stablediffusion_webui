@@ -1,5 +1,5 @@
 /* Hide buttons */
 
-#MD-t2i {
+#MD-t2i,#MDV-i2i,#MD-i2i {
 	display:none;
 }
